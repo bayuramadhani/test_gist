@@ -8,6 +8,8 @@ $grunt
 3. Copy env
 $cp env.sample .env
 
+4. Input username, password on .env
 
-4. Run Test
+5. Run Test
 $npm run test-docker-chrome
+
